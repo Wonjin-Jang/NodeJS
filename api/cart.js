@@ -61,5 +61,5 @@ app.get('/count', function(req,res){
     res.send('count : '+req.cookies.count);
 });
 app.listen(3003, function(){
-console.log('server connected');
+console.log('Connected');
 });
