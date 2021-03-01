@@ -72,5 +72,5 @@ else {
   });
   
 app.listen(3000, function(){
-    console.log('Server Connected');
+    console.log('Connected');
 });
